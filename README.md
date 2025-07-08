@@ -1,5 +1,4 @@
 # 8848_digital_machine_test
-# 8848_digital_machine_test
 
 # Library Management Web Application (Backend)
 
