@@ -143,6 +143,9 @@ POST /api/import-books/
   "count": 10
 }
 ```
+
+![alt text](image.png)
+
 ---
 
 ##  Author
