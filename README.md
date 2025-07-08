@@ -122,11 +122,6 @@ POST /api/return/
 }
 
 ```
-### Screenshots
-
-### Add Book
-
-screenshorts\added.jpg
 
 
 
@@ -134,11 +129,16 @@ screenshorts\added.jpg
 ```json
 POST /api/import-books/
 {
-  "title": "harry",
+    "title": "harry",
   "count": 10
 }
 ```
 
+### Screenshots
+    
+### Add Book
+
+![alt text](image-1.png)
 ---
 
 ##  Author
