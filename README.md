@@ -94,7 +94,9 @@ POST /api/books/
 }
 
 ```
+
 ![alt text](image-1.png)
+
 
 ### Add Member
 ```json
@@ -105,6 +107,9 @@ POST /api/members/
 }
 ```
 
+![alt text](image-2.png)
+
+
 ### Issue Book
 ```json
 POST /api/issue/
@@ -113,6 +118,9 @@ POST /api/issue/
   "book_id": 1
 }
 ```
+
+![alt text](image-3.png)
+
 
 ### Return Book
 ```json
@@ -124,6 +132,9 @@ POST /api/return/
 
 ```
 
+![alt text](image-4.png)
+
+
 ### Import Books
 ```json
 POST /api/import-books/
@@ -132,19 +143,8 @@ POST /api/import-books/
   "count": 10
 }
 ```
-
-### Screenshots
-    
-### Add Book
-
-![alt text](image-1.png)
-
-### Add Member
-
-![alt text](image-2.png)
-
-
 ---
+
 ##  Author
 
 **Harsh Gupta**  
