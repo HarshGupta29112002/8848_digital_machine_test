@@ -34,8 +34,8 @@ This is a backend system for managing a local library using Django and Django RE
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/library-management.git
-   cd library-management
+   git clone https://github.com/HarshGupta29112002/8848_digital_machine_test
+   cd library_project
    ```
 
 2. **Create a virtual environment**
