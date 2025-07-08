@@ -94,6 +94,7 @@ POST /api/books/
 }
 
 ```
+![alt text](image-1.png)
 
 ### Add Member
 ```json
@@ -123,8 +124,6 @@ POST /api/return/
 
 ```
 
-
-
 ### Import Books
 ```json
 POST /api/import-books/
@@ -139,8 +138,13 @@ POST /api/import-books/
 ### Add Book
 
 ![alt text](image-1.png)
----
 
+### Add Member
+
+![alt text](image-2.png)
+
+
+---
 ##  Author
 
 **Harsh Gupta**  
