@@ -93,7 +93,6 @@ POST /api/books/
   "stock": 5
 }
 
-![alt text](image.png)
 ```
 
 ### Add Member
@@ -122,15 +121,14 @@ POST /api/return/
   "book_id": 1
 }
 
-
-
-
-
-
-
-
-
 ```
+### Screenshots
+
+### Add Book
+
+screenshorts\added.jpg
+
+
 
 ### Import Books
 ```json
